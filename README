@@ -8,8 +8,8 @@
 
 # abrir o ambiente virtual
 
-`venv\Scripst\Activate`
+`venv\Scripts\Activate`
 
 # instalar dependencia
 
-`pip install -r requirementes.txt`
+`pip install -r requirements.txt`
