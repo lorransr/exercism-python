@@ -1,0 +1,15 @@
+# instalar a biblioteca de ambiente virtual
+
+`pip install virtualenv`
+
+# habilitar o nosso ambiente
+
+`virtualenv venv`
+
+# abrir o ambiente virtual
+
+`Hctivate`
+
+# instalar dependencia
+
+`pip install -r requirementes.txt`
