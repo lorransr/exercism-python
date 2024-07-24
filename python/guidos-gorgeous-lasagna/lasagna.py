@@ -13,7 +13,7 @@ EXPECTED_BAKE_TIME = 40
 
 
 #TODO: Remove 'pass' and complete the 'bake_time_remaining()' function below.
-def bake_time_remaining(elapsed_bake_time, EXPECTED_BAKE_TIME):
+def bake_time_remaining(elapsed_bake_time):
     return EXPECTED_BAKE_TIME - elapsed_bake_time
     """Calculate the bake time remaining.
 
